@@ -1,0 +1,27 @@
+.tag-filter-container {
+    height: 30px;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.tag-filter-container button {
+    
+    margin-right: 20px;
+    background-color: rgb(234, 234, 234);
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    font-weight: 500;
+    font-family: Roboto;
+    font-size:14px;
+}
+.tag-filter-container .all-button{
+    background-color: #222222;
+    color:#fff;
+}
+
+.tag-filter-container button:hover {
+    background-color: rgb(190, 190, 190);
+}
